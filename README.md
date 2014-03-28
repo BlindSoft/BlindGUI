@@ -1,6 +1,10 @@
 BlindGUI - powerful and flexible GUI Framework
 =====================================================
 
+-----------------------------------------------------
+    Project is closed and not supported.
+-----------------------------------------------------
+
 blindGUI is powerful and flexible GUI framework which support translation, rotation and scale of elements in hierarchy or without it. 
 
 This framework gives full control under graphical elements through the code. 
